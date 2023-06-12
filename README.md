@@ -5,6 +5,10 @@
 - Using this user will also be able to see what's the height and widht of his/her PC or Computer screen. 
 
 <p align = "center">
+	<img src = "https://img.shields.io/badge/Executable File-Mouse Pointer Co ordinates Getter-orange?style=plastic&logo=appveyor", alt = "Mouse Pointer Co ordinates Getter">
+	<img src = "https://img.shields.io/badge/Extension-.exe-green?style=plastic&logo=appveyor", alt = ".exe">
+</p>
+<p align = "center">
 	<img src = "https://img.shields.io/github/stars/akash-rajak/Mouse-Pointer-Co-ordinates-Getter?style=social", alt = "GitHub Repo stars">
 	<img src = "https://img.shields.io/github/forks/akash-rajak/Mouse-Pointer-Co-ordinates-Getter?style=social", alt = "GitHub Repo forks">
 	<img src = "https://img.shields.io/github/watchers/akash-rajak/Mouse-Pointer-Co-ordinates-Getter?style=social", alt = "GitHub Repo watchers">
